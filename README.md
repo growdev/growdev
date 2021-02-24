@@ -6,6 +6,6 @@ I'm Daniel and I'm currently:
 - Live coding on [Twitch](https://www.twitch.tv/growdev) 👨‍💻🎥
 - Leading projects at my WooCommerce agency [Grow Development](https://growdevelopment.com/) 🖥
 - Building WooCommerce plugins for my marketplace [Shop Plugins](https://shopplugins.com/) 🔌
-- Managing our family Minecraft server ⛏
+
 
 
