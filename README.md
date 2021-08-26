@@ -7,4 +7,4 @@ I'm Daniel and I'm currently:
 - Building WooCommerce plugins for my marketplace [Shop Plugins](https://shopplugins.com/) 🔌
 
 
-_Last Updated: April 2021_
+_Last Updated: August 2021_
