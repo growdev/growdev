@@ -2,9 +2,13 @@
 
 I'm Daniel and I'm currently:
 
-- Living in San Antonio, TX 🌎
-- Leading projects at my WooCommerce agency [Grow Development](https://growdevelopment.com/) 🖥
-- Building WooCommerce plugins for my marketplace [Shop Plugins](https://shopplugins.com/) 🔌
+- Hanging out in San Antonio, Texas with my wife and kids. 🌎
+- Leading projects at my WooCommerce agency Grow Development. 🖥
+- Building WooCommerce/WC Subscriptions plugins for my marketplace Shop Plugins. 🔌
+- Working on the MVP of Monitorific. 🤖
+- Watching a lot of youth sports. 🏐🏃🏻‍♂️
+- Looking forward to NFL and College Football games.
+- Gardening and raising 10 chickens. 🐔🐓👨‍🌾
 
 
-_Last Updated: October 2021_
+_Last Updated: August 2022_
