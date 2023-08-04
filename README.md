@@ -3,13 +3,12 @@
 I'm Daniel and I'm currently:
 
 - Hanging out in San Antonio, Texas with my wife and kids. 🌎
-- Building cool things at [Prophetably](https://prophetably.com/). 💰
-- Building WooCommerce and WC Subscriptions plugins for my marketplace [Shop Plugins](https://shopplugins.com). 🔌
-- Working on the MVP of [Monitorific](https://monitorific.com/). 🤖
-- Watching a lot of youth sports. 🏐🏃🏻‍♂️
-- Coaching a [FIRST FTC](https://www.firstinspires.org/robotics/ftc) robotics team - [Microchips & Queso](https://microchipsandqueso.com/)
+- Building the future of affiliate marketing at [Affiliate.com](https://affiliate.com/). 🔗
+- Working on [Monitorific](https://monitorific.com/). 🤖
+- Mentoring future roboticists with a [FIRST FTC](https://www.firstinspires.org/robotics/ftc) robotics team named [Microchips & Queso](https://microchipsandqueso.com/)
+- Lots of running. 🏃🏻‍♂️
 - Enjoying watching NFL and College Football games with my family.
-- Gardening and raising ~10~ ~9~ 8 chickens. 🐔🐓👨‍🌾
+- Gardening and raising ~10~ ~9~ ~8~ 7 chickens. 🐔🐓👨‍🌾
 
 
-_Last Updated: May 2023_
+_Last Updated: August 2023_
