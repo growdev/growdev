@@ -8,7 +8,7 @@ I'm Daniel and I'm currently:
 - Mentoring future roboticists with a [FIRST FTC](https://www.firstinspires.org/robotics/ftc) robotics team named [Microchips & Queso](https://microchipsandqueso.com/)
 - Lots of running. 🏃🏻‍♂️
 - Enjoying watching NFL and College Football games with my family.
-- Gardening and raising ~10~ ~9~ ~8~ 7 chickens. 🐔🐓👨‍🌾
+- Gardening and raising ~10~ ~9~ ~8~ 7 chickens and 1 rabbit 🐔🐓🐇👨‍🌾
 
 
 _Last Updated: August 2023_
